@@ -1,0 +1,38 @@
+#container{
+    display: flex;
+    text-align: center;
+    background-color: aliceblue;
+    justify-content: center;
+    padding: 25px;
+    width: 100%;
+}
+#one{
+    width: 20%;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(10, 8, 8);
+    margin-top: 10px;
+}
+#two{
+    width:50%;
+    justify-content: space-evenly;
+      margin-top: 15px;
+}
+ a {
+    color: rgb(31, 14, 14);
+    text-decoration: none;
+    margin-right: 15px;
+ }
+ #three{
+    width:30%;
+   display:flex;
+    justify-content: flex-end;
+    color: rgba(28, 21, 21, 0.679);
+    
+}
+button{
+    color: white;
+    background-color: blueviolet;
+    padding: 10px;
+    font-size: larger;
+}
